@@ -1,11 +1,9 @@
 # 💌 Hey there, I'm Lauriane!
 
 🎓 **Sophomore Computer Science student** @ Georgia State University  
-💻 **Aspiring Software Engineer | Web Developer | Cybersecurity Explorer**  
 🌍 From Benin, now in the U.S., excited to make a global impact through technology!  
 
-I'm passionate about **creating meaningful solutions** through code, continuously exploring the exciting worlds of **cybersecurity, AI/ML**, and **software engineering**. I thrive on solving real-world challenges, building elegant and functional applications, and learning something new every day. Whether it's a role in software engineering or contributing to cutting-edge projects, I'm driven by curiosity, positivity, and a constant eagerness to grow. Let's create something impactful together!
-
+I'm passionate about **creating meaningful solutions** through code, continuously exploring the exciting sectors of tech. I thrive on solving real-world challenges, building elegant and functional applications, and learning something new every day.
 ---
 
 ## 🛠️ Tech Stack
@@ -32,9 +30,6 @@ I'm passionate about **creating meaningful solutions** through code, continuousl
 - **[Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)** (Coming Soon)  
   Advocacy website focused on helping teens understand personal finance, currently in development.  
 
-- **Wireshark Packet Analyzer**  
-  Delving into the world of cybersecurity by analyzing phishing attempts through network traffic captured in .pcap files.  
-
 ---
 
 ## 📊 GitHub Stats
@@ -53,7 +48,7 @@ I'm passionate about **creating meaningful solutions** through code, continuousl
 ---
 
 ### A Little More About Me:
-- 💡 **Curiosity-Driven**: I'm currently exploring **cybersecurity**, **artificial intelligence**, and **machine learning**, and I love diving into these fields to understand how they can shape our future.
+- 💡 **Curiosity-Driven**: I'm currently exploring different tech sectors.
 - 🧠 **Lifelong Learner**: I believe there's always something new to learn, and I’m driven by a deep curiosity to expand my skillset and contribute to innovative solutions.
 - 🌱 **Positive Energy**: I bring enthusiasm and an optimistic approach to everything I work on, from coding to collaborating with teams.  
 - 🌟 **Growth-Oriented**: My journey in tech is one of growth, and I'm excited about the possibilities that come with being part of this ever-evolving field.

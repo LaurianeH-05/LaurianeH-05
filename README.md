@@ -23,7 +23,7 @@ I'm passionate about **creating meaningful solutions** through code, continuousl
 
 ## 🚀 Current Projects
 - **[Med360](https://github.com/LaurianeH-05/MedSupply360)** (Work in Progress)  
-  A productivity web app built with React.js and Python. Users can set study and break timers to optimize their workflow.  
+  A full stack inventory management app.  
   ![Pomodoro Timer Top Language](https://img.shields.io/github/languages/top/laurianeh-05/pomodoro-timer?color=f2c1d3&style=flat-square)
 
 - **[Pomodoro Timer](https://github.com/LaurianeH-05/Pomodoro-Timer)** (Work in Progress)  

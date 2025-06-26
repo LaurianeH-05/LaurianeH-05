@@ -22,7 +22,7 @@ I'm passionate about **creating meaningful solutions** through code, continuousl
 ---
 
 ## 🚀 Current Projects
-- **[Med360](https://github.com/LaurianeH-05/MedSupply360)** (Work in Progress)  
+- **[MedSupply360](https://github.com/LaurianeH-05/MedSupply360)** (Work in Progress)  
   A full stack inventory management app.  
   ![Pomodoro Timer Top Language](https://img.shields.io/github/languages/top/laurianeh-05/pomodoro-timer?color=f2c1d3&style=flat-square)
 

@@ -1,52 +1,63 @@
-# 💌 Hey there, I'm Lauriane!
+# 💌 Hi there — I’m Lauriane!
 
-🎓 **Sophomore Computer Science student** @ Georgia State University  
-🌍 From Benin, now in the U.S., excited to make a global impact through technology!  
+🎓 **Third-year Computer Science student** @ Georgia State University  
+🌍 Originally from Benin, now in the U.S., driven to make a global impact through technology.
 
-I'm passionate about **creating meaningful solutions** through code, continuously exploring the exciting sectors of tech. I thrive on solving real-world challenges, building elegant and functional applications, and learning something new every day.
+I’m passionate about **building impactful solutions** with code. Whether I’m creating intuitive web apps or exploring backend systems, I love using technology to solve real-world challenges and empower others. Always learning, always building.
+
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-f2c1d3?style=for-the-badge&logo=python&logoColor=fefefe)
-![JavaScript](https://img.shields.io/badge/JavaScript-f2c1d3?style=for-the-badge&logo=javascript&logoColor=fefefe)
-![React](https://img.shields.io/badge/React-f2c1d3?style=for-the-badge&logo=react&logoColor=fefefe)
-![HTML5](https://img.shields.io/badge/HTML5-f2c1d3?style=for-the-badge&logo=html5&logoColor=fefefe)
+![Python](https://img.shields.io/badge/Python-f2c1d3?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f2c1d3?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-f2c1d3?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f2c1d3?style=for-the-badge&logo=html5&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-e7dccf?style=for-the-badge&logo=git&logoColor=fefefe)
-![Linux](https://img.shields.io/badge/Linux-e7dccf?style=for-the-badge&logo=linux&logoColor=fefefe)
-![VSCode](https://img.shields.io/badge/VSCode-e7dccf?style=for-the-badge&logo=visual-studio-code&logoColor=fefefe)
+![Git](https://img.shields.io/badge/Git-e7dccf?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-e7dccf?style=for-the-badge&logo=linux&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-e7dccf?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Current Projects
-- **[MedSupply360](https://github.com/LaurianeH-05/MedSupply360)** (Work in Progress)  
-  A full stack inventory management app.
+## 🚀 Projects I’m Building
 
-- **[Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)** (Coming Soon)  
-  Advocacy website focused on helping teens understand personal finance, currently in development.  
+### 🩺 [MedSupply360](https://github.com/LaurianeH-05/MedSupply360)  
+A full-stack inventory management platform for pharmacies. Features include stock tracking, expiration alerts, and sales recording. *(In progress)*
 
----
+### 💰 [Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)  
+A responsive advocacy site to help teens understand personal finance concepts in an approachable, engaging way. *(Coming soon)*
 
-## 📊 GitHub Stats
-
-![Lauriane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurianeh-05&show_icons=true&title_color=f2c1d3&icon_color=f2c1d3&text_color=333333&bg_color=fefefe)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurianeh-05&layout=compact&title_color=f2c1d3&icon_color=f2c1d3&text_color=333333&bg_color=fefefe)
+### ⏱️ Pomodoro+ (Private Repo)  
+A productivity app that combines the Pomodoro technique with custom time logging and motivational visuals. *(Frontend-first project with plans to scale)*
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f2c1d3?style=for-the-badge&logo=linkedin&logoColor=fefefe)](https://www.linkedin.com/in/lauriane-houndjahoue/)  
-![Portfolio](https://img.shields.io/badge/Portfolio-e7dccf?style=for-the-badge&logo=About.me&logoColor=fefefe) (Coming Soon!)
+## 🧭 What I’m Focused On
+- Backend development with **FastAPI**, **PostgreSQL**, and **JWT-based auth**
+- **Frontend integration** with React + REST APIs
+- Design systems and **clean, intuitive UIs**
+- Building a solid foundation in **algorithms and systems design**
 
 ---
 
-### A Little More About Me:
-- 💡 **Curiosity-Driven**: I'm currently exploring different tech sectors.
-- 🧠 **Lifelong Learner**: I believe there's always something new to learn, and I’m driven by a deep curiosity to expand my skillset and contribute to innovative solutions.
-- 🌱 **Positive Energy**: I bring enthusiasm and an optimistic approach to everything I work on, from coding to collaborating with teams.  
-- 🌟 **Growth-Oriented**: My journey in tech is one of growth, and I'm excited about the possibilities that come with being part of this ever-evolving field.
+## 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f2c1d3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauriane-houndjahoue/)  
+[![Portfolio (Coming Soon)](https://img.shields.io/badge/Portfolio-e7dccf?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+---
+
+## ✨ A Bit More About Me
+
+- 💡 **Curious Explorer**: Always diving into new technologies and frameworks.
+- 🧠 **Lifelong Learner**: I approach each project as a learning opportunity.
+- 🤝 **Collaborative Spirit**: I love team-oriented problem solving and cross-functional work.
+- 🌍 **Mission-Driven**: I care deeply about tech that makes a difference—especially in education, healthcare, and community-focused spaces.
+
+---
+
+> *"Build what matters. Learn from everything. Stay kind."*
+

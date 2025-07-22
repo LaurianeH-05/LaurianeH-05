@@ -28,7 +28,7 @@ I’m passionate about **building impactful solutions** with code. Whether I’m
 A full-stack inventory management platform for pharmacies. Features include stock tracking, expiration alerts, and sales recording. *(In progress)*
 
 ### 💰 [Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)  
-A responsive advocacy site to help teens understand personal finance concepts in an approachable, engaging way. *(Coming soon)*
+A responsive advocacy site to help teens understand personal finance concepts in an approachable, engaging way. *(In progress)*
 
 ### 🧪 [OSS-Insight](https://github.com/LaurianeH-05/oss-insight)  
 A tool that analyzes open-source repos and suggests smart, actionable ways for new contributors to get involved — ideal for beginners breaking into OSS.  

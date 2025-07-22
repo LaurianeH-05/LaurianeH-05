@@ -30,8 +30,9 @@ A full-stack inventory management platform for pharmacies. Features include stoc
 ### 💰 [Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)  
 A responsive advocacy site to help teens understand personal finance concepts in an approachable, engaging way. *(Coming soon)*
 
-### ⏱️ Pomodoro+ (Private Repo)  
-A productivity app that combines the Pomodoro technique with custom time logging and motivational visuals. *(Frontend-first project with plans to scale)*
+### 🧪 [OSS-Insight](https://github.com/LaurianeH-05/oss-insight)  
+A tool that analyzes open-source repos and suggests smart, actionable ways for new contributors to get involved — ideal for beginners breaking into OSS.  
+Includes features like issue labeling, contribution pathway generation, and low-hanging-fruit detection. *(In progress)*
 
 ---
 

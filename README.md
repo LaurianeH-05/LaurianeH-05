@@ -3,7 +3,7 @@
 🎓 **Third-year Computer Science student** @ Georgia State University  
 🌍 Originally from Benin, now in the U.S., driven to make a global impact through technology.
 
-I’m passionate about **building impactful solutions** with code. Whether I’m creating intuitive web apps or exploring backend systems, I love using technology to solve real-world challenges and empower others. Always learning, always building.
+I work across the stack, from backend APIs to frontend interfaces, with a focus on solving real problems. Currently exploring the intersection of technical execution and product strategy.
 
 ---
 

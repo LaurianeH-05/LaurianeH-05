@@ -25,7 +25,7 @@ I work across the stack, from backend APIs to frontend interfaces, with a focus 
 ## 🚀 Projects I’m Building
 
 ### 🩺 [MedSupply360](https://github.com/LaurianeH-05/MedSupply360)  
-A full-stack inventory management platform for pharmacies. Features include stock tracking, expiration alerts, and sales recording. *(In progress)*
+A full-stack inventory management platform for pharmacies. Features include stock tracking, expiration alerts, and sales recording.
 
 ### 💰 [Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)  
 A responsive advocacy site to help teens understand personal finance concepts in an approachable, engaging way. *(In progress)*

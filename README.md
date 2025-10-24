@@ -3,7 +3,7 @@
 🎓 **Third-year Computer Science student** @ Georgia State University  
 🌍 Originally from Benin, now in the U.S., driven to make a global impact through technology.
 
-I work across the stack, from backend APIs to frontend interfaces, with a focus on solving real problems. Currently exploring the intersection of technical execution and product strategy.
+I love building things that actually solve problems, whether it’s backend APIs, slick frontend interfaces, or a mix of both. Right now, I’m exploring where technical execution meets product strategy.
 
 ---
 
@@ -25,14 +25,23 @@ I work across the stack, from backend APIs to frontend interfaces, with a focus 
 ## 🚀 Projects I’m Building
 
 ### 🩺 [MedSupply360](https://github.com/LaurianeH-05/MedSupply360)  
-A full-stack inventory management platform for pharmacies. Features include stock tracking, expiration alerts, and sales recording.
+Full-stack inventory management platform for pharmacies. Tracks stock, sends expiration alerts, and records sales.
 
 ### 💰 [Financial Literacy for Teens](https://github.com/LaurianeH-05/financial-literacy-website)  
-A responsive advocacy site to help teens understand personal finance concepts in an approachable, engaging way. *(In progress)*
+A teen-friendly advocacy site for learning personal finance concepts in an engaging, interactive way.
 
-### 🧪 [OSS-Insight](https://github.com/LaurianeH-05/oss-insight)  
-A tool that analyzes open-source repos and suggests smart, actionable ways for new contributors to get involved — ideal for beginners breaking into OSS.  
-Includes features like issue labeling, contribution pathway generation, and low-hanging-fruit detection. *(In progress)*
+### 🎬 [MOVI](https://github.com/Eperezalonso/Movi)  
+Movie & show recommendation platform that tailors suggestions based on your preferences and watch history.
+
+### 🛡️ [SafePath](https://github.com/LaurianeH-05/SafePath)  
+Safety-focused navigation app highlighting well-lit, low-risk routes. Features include real-time alerts and check-ins.
+
+---
+
+## 🌟 Open Source Contributions
+
+- Added command documentation pages to [tldr-pages/tldr](https://github.com/tldr-pages/tldr/pull/18924) — `npm prune` (reviewed official docs and created a page for the command) [in review].  
+- Added command documentation pages to [tldr-pages/tldr](https://github.com/tldr-pages/tldr/pull/18691) — `npm prefix` (reviewed official docs and created a page for the command) [merged].  
 
 ---
 
@@ -40,7 +49,7 @@ Includes features like issue labeling, contribution pathway generation, and low-
 - Backend development with **FastAPI**, **PostgreSQL**, and **JWT-based auth**
 - **Frontend integration** with React + REST APIs
 - Design systems and **clean, intuitive UIs**
-- Building a solid foundation in **algorithms and systems design**
+- Building a strong foundation in **algorithms and systems design**
 
 ---
 
@@ -53,12 +62,11 @@ Includes features like issue labeling, contribution pathway generation, and low-
 
 ## ✨ A Bit More About Me
 
-- 💡 **Curious Explorer**: Always diving into new technologies and frameworks.
-- 🧠 **Lifelong Learner**: I approach each project as a learning opportunity.
-- 🤝 **Collaborative Spirit**: I love team-oriented problem solving and cross-functional work.
-- 🌍 **Mission-Driven**: I care deeply about tech that makes a difference—especially in education, healthcare, and community-focused spaces.
+- 💡 **Curious Explorer**: Always diving into new tech and frameworks.
+- 🧠 **Lifelong Learner**: Every project is a chance to grow.
+- 🤝 **Collaborative Spirit**: I thrive on team problem-solving and cross-functional work.
+- 🌍 **Mission-Driven**: Tech that makes a difference in education, healthcare, and community spaces is my jam.
 
 ---
 
 > *"Build what matters. Learn from everything. Stay kind."*
-

@@ -40,6 +40,7 @@ Safety-focused navigation app highlighting well-lit, low-risk routes. Features i
 
 ## 🌟 Open Source Contributions
 
+- Fixed Postgres URL placeholder encoding in [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie/pull/6438) — Improved admin settings display [under review].
 - Added command documentation pages to [tldr-pages/tldr](https://github.com/tldr-pages/tldr/pull/18924) — `npm prune` (reviewed official docs and created a page for the command) [merged].  
 - Added command documentation pages to [tldr-pages/tldr](https://github.com/tldr-pages/tldr/pull/18691) — `npm prefix` (reviewed official docs and created a page for the command) [merged].  
 

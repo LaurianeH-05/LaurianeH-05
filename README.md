@@ -63,10 +63,10 @@ Safety-focused navigation app highlighting well-lit, low-risk routes. Features i
 
 ## ✨ A Bit More About Me
 
-- 💡 **Curious Explorer**: Always diving into new tech and frameworks.
-- 🧠 **Lifelong Learner**: Every project is a chance to grow.
-- 🤝 **Collaborative Spirit**: I thrive on team problem-solving and cross-functional work.
-- 🌍 **Mission-Driven**: Tech that makes a difference in education, healthcare, and community spaces is my jam.
+- 💡 **Curious Explorer**
+- 🧠 **Lifelong Learner**
+- 🤝 **Collaborative Spirit**
+- 🌍 **Mission-Driven**
 
 ---
 

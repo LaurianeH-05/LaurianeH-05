@@ -1,7 +1,6 @@
 # 💌 Hi there — I’m Lauriane!
 
 🎓 **Third-year Computer Science student** @ Georgia State University  
-🌍 Originally from Benin, now in the U.S., driven to make a global impact through technology.
 
 I love building things that actually solve problems, whether it’s backend APIs, slick frontend interfaces, or a mix of both. Right now, I’m exploring where technical execution meets product strategy.
 
